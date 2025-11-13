@@ -32,7 +32,7 @@ In this **real-time DevOps project**, I demonstrate how to **deploy a Swiggy Clo
 
 ## 📢 **Share Your Experience!**
 
-If you've successfully deployed the **Swiggy Clone App** using this project, I'd love to hear about it!  
+If you've successfully deployed the **Swiggy Clone App** using this project, I'd love to hear about it  
 - 📹 **Post your deployment video** and **tag me on LinkedIn**: [**Kastro Kiran**](https://www.linkedin.com/in/kastro-kiran/)
 - 💬 **Share your experience** of deploying the app and the tools you used.
 
